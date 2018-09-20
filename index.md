@@ -4,11 +4,11 @@
 
 I am currently studying for an integrated Masters/PhD at [The University of Sheffield](https://www.sheffield.ac.uk/)
 
-My PhD involves working with the Home Office to help improve the efficiency of border/passport control. 
+My PhD project involves working with the Home Office to help improve the efficiency of border/passport control. 
 
 ### My Background
 
-I completed a BA in Economics and Politics at the University of York in 2003. I then worked as an analyst in HR for public and private organisations. 
+I completed a BA in Economics and Politics at the [University of York](https://www.york.ac.uk/) in 2003. I then worked as an analyst in HR for public and private organisations. 
 
 I decided to return to academia in 2017 and started a Masters in Social Research back at York.
 
