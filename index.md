@@ -1,10 +1,10 @@
-## About me
+## About Me
 
 I am currently studying for an integrated Masters/PhD at the University of Sheffield.
 
 My PhD involves working with the Home Office to help improve the efficiency of border/passport control. 
 
-### My background
+### My Background
 
 I completed a BA in Economics and Politics at the University of York in 2003. I then worked as an analyst in HR for public and private organisations. 
 
