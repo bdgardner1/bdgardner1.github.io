@@ -4,7 +4,7 @@
 
 I am currently studying for an integrated Masters/PhD at [The University of Sheffield](https://www.sheffield.ac.uk/)
 
-My PhD project involves working with the Home Office to help improve the efficiency of border/passport control. 
+My PhD [project](projects.md) involves working with the Home Office to help improve the efficiency of border/passport control. 
 
 ### My Background
 
