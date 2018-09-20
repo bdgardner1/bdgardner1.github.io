@@ -1,36 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Ben Gardner's Website
 
-You can use the [editor on GitHub](https://github.com/bdgardner1/bdgardner1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently studying for an integrated Masters/PhD at the University of Sheffield.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My PhD involves working with the Home Office to help improve the efficiency of border/passport control. 
 
-### Markdown
+### My background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I completed a BA in Economics and Politics at the University of York in 2003. I then worked as an analyst in HR for public and private organisations. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bdgardner1/bdgardner1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I decided to return to academia in 2017 and started a Masters in Social Research back at York.
 
 ### Support or Contact
 
