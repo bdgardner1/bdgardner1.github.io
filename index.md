@@ -1,4 +1,4 @@
-## Welcome to Ben Gardner's Website
+## About me
 
 I am currently studying for an integrated Masters/PhD at the University of Sheffield.
 
