@@ -2,7 +2,7 @@
 
 ![Me at Castleton](BenGardner_Castleton.jpg)
 
-I am currently studying for an integrated Masters/PhD at the University of Sheffield.
+I am currently studying for an integrated Masters/PhD at the [University of Sheffield](https://www.sheffield.ac.uk/)
 
 My PhD involves working with the Home Office to help improve the efficiency of border/passport control. 
 
