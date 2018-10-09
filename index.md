@@ -8,13 +8,15 @@ My PhD [project](projects.md) involves working with the Home Office to help impr
 
 ### My Background
 
+![YorkUni](Uni.jpg)
+
 I completed a BA in Economics and Politics at the [University of York](https://www.york.ac.uk/) in 2003. I then worked as an analyst in HR for public and private organisations. 
 
 I decided to return to academia in 2017 and started a Masters in Social Research back at York.
 
 ### Sheep Simulator
 
-[Click here to find out details of my sheep simluator]
+[Click here to find out details of my sheep simluator](SheepSim.md)
 
 ### Support or Contact
 
