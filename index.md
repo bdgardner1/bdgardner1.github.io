@@ -8,7 +8,7 @@ My PhD [project](projects.md) involves working with the Home Office to help impr
 
 ### My Background
 
-![YorkUni](Uni.jpg)
+![YorkUni](Uni_York.jpg)
 
 I completed a BA in Economics and Politics at the [University of York](https://www.york.ac.uk/) in 2003. I then worked as an analyst in HR for public and private organisations. 
 
