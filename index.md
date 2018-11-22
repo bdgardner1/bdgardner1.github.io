@@ -1,6 +1,6 @@
 ## About Me
 
-![Me at Castleton](BenGardner_Castleton.jpg)
+![Me at Castleton](Ben_Profile.jpg)
 
 I am currently studying for an integrated Masters/PhD at [The University of Sheffield](https://www.sheffield.ac.uk/)
 
