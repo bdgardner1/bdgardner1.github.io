@@ -1,6 +1,6 @@
 ## About Me
 
-![Me at Castleton](Ben_Profile.jpg){:height="700px" width="400px"}
+![Me at Castleton](Ben_Profile.jpg)
 
 I am currently studying for an integrated Masters/PhD at [The University of Sheffield](https://www.sheffield.ac.uk/)
 
@@ -14,9 +14,9 @@ I completed a BA in Economics and Politics at the [University of York](https://w
 
 I decided to return to academia in 2017 and started a Masters in Social Research back at York.
 
-### Sheep Simulator
+### Python Coursework
 
-[Click here to find out details of my sheep simluator](SheepSim.md)
+[Click here to find out details of my "sheep simluator" created as part of my Python Coursework](SheepSim.md)
 
 ### Support or Contact
 
