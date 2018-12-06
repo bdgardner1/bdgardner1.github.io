@@ -1,6 +1,6 @@
 ## About Me
 
-![Me at Castleton](Ben_Profile.jpg = 200x200)
+![Me at Castleton](Ben_Profile.jpg | width = 200)
 
 I am currently studying for an integrated Masters/PhD at [The University of Sheffield](https://www.sheffield.ac.uk/)
 
