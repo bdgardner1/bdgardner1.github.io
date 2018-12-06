@@ -14,7 +14,7 @@ When the agents encounter each other in the field they add together the grass th
 There are also three sheepdog (black dots), who move around and 'scare' the sheep back to the centre of the field if they come within a certain distance of them. The sheep are so scared that they move instantaneously!!
 
 ### Here is a brief overview of the code flow:
-1. The evironment is loading into the programme via a .txt file. 
+1. The evironment is loaded into the programme via a .txt file. 
 2. 10 sheep are created and located randomly within the field.
 3. Three sheepdog are created in the centre of the field (with 500 energy). 
 4. Each sheep agent moves twice and consumes some of the environment and checks to see if there is a nearby sheep agent to share with. 
