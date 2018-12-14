@@ -9,7 +9,7 @@ As part of my Data Analytics Master's course I created a 'Sheep Simulator' using
 
 **NOTE:** The final model is  **_model_Additional.py_**
 
-In my simulator 10 agents (white sheep) roam around an enviornment (field) consuming and storing data (grass) as they go.
+In my simulator 10 agents (white sheep) roam around an environment (field) consuming and storing data (grass) as they go.
 
 When the agents encounter each other in the field they add together the grass they've gained and share it out equally among themselves (these are thoughtful sheep!).  
 
